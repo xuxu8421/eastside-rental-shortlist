@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="description" content="2026年9月 Bellevue 与 Redmond 租房家庭决策摘要">
+    <meta name="theme-color" content="#f5f5f7">
+    <title>我们的选房候选｜2026年9月</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="brand" href="#top" aria-label="返回顶部">选房候选</a>
+        <span id="updated-at" class="updated-at">正在读取最新信息</span>
+      </div>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="page-title">
+        <p class="eyebrow">家庭讨论版 · 9月15日前后入住</p>
+        <h1 id="page-title">先看房，再看取舍。</h1>
+        <p id="summary-note" class="hero__summary"></p>
+        <div class="reading-key" aria-label="价格口径">
+          <div><span>正常账单</span><b>实际每月支付口径</b></div>
+          <div><span>有效全包</span><b>优惠摊销后的比较价</b></div>
+          <div><span>待确认</span><b>付款前必须补齐</b></div>
+        </div>
+      </section>
+
+      <section class="quick-section" aria-labelledby="quick-title">
+        <div class="section-heading">
+          <p class="eyebrow">快速比较</p>
+          <h2 id="quick-title">当前重点候选</h2>
+        </div>
+        <nav id="quick-compare" class="quick-compare" aria-label="快速跳转候选"></nav>
+      </section>
+
+      <section class="shortlist-section" aria-labelledby="shortlist-title">
+        <div class="section-heading section-heading--tabs">
+          <div><p class="eyebrow">按已验证价值排序</p><h2 id="shortlist-title">逐套看</h2></div>
+          <div id="tier-tabs" class="tier-tabs" aria-label="候选状态"></div>
+        </div>
+        <div id="shortlist" class="shortlist"></div>
+      </section>
+
+      <section class="footer-note" aria-label="重要提醒">
+        <strong>讨论口径</strong>
+        <p>页面用于家庭初选。价格、优惠、朝向和媒体均注明证据状态；最终支付任何费用前，仍需按具体房号核对合同与退款条款。</p>
+      </section>
+    </main>
+
+    <footer>
+      <p>2026 Rental Shortlist · 公开家庭分享版</p>
+    </footer>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
