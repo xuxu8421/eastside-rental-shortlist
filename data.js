@@ -1,5 +1,5 @@
 window.PUBLIC_RENTAL_DATA = {
-  "updatedAt": "2026-08-29 17:25 两个Downtown轻轨与噪音审计、区域收口（北京时间）",
+  "updatedAt": "2026-08-30 09:00 Gmail与两个Downtown实时复核（北京时间）",
   "summary": {
     "recommendation": "当前只比较 Bellevue Downtown 与 Redmond Downtown；先看主候选，再按需展开后置观察。",
     "note": "噪音按跨平台住户反馈和房号朝向分级；正常账单与优惠摊销价分开显示。所有房源均未锁定、未付款。"
@@ -14,37 +14,37 @@ window.PUBLIC_RENTAL_DATA = {
       "type": "1BR",
       "sqft": 537,
       "floor": "3楼",
-      "direction": "待物业确认",
+      "direction": "约东北向；物业称内院在背后，但所附阳台照片明显看向内院，需澄清",
       "moveIn": "2026-09-11",
       "lease": "12个月；09-12至15起租可在9月优惠窗口内",
       "commute": "约20分钟 公共交通",
       "normalBill": "$2,224",
       "effectiveBill": "$1,882",
-      "effectiveNote": "约$1,882/月 + 变量费（8周优惠摊销；完整费用待补）",
-      "valueScore": 92,
-      "readinessScore": 78,
+      "effectiveNote": "约$1,882/月 + 变量费（8周优惠摊销；若24小时内申请则免一次性$375管理费）",
+      "valueScore": 94,
+      "readinessScore": 86,
       "laundry": "✓ 户内洗烘 W/D",
       "airConditioning": "✓ 空调",
       "balcony": "✓ 阳台",
       "furnished": "无家具/待确认",
-      "bestPro": "Unit 339已书面确认9月入住完整8周免费",
-      "biggestCon": "全部费用和无工资国际学生审核细则仍未闭环",
-      "watchOut": "轻轨/Cleveland Street方向噪音与实房媒体",
+      "bestPro": "1BR、9月日期匹配，Unit 339完整8周与24小时免$375管理费已书面确认",
+      "biggestCon": "无工资学生审核未闭环，阳台照片与朝向描述相互矛盾",
+      "watchOut": "先确认照片确为339及内院/道路朝向，再进入申请",
       "unresolved": [
-        "全部固定/变量费",
-        "准确credit与入账月份",
-        "方向与轻轨/道路噪音"
+        "确认邮件照片是否确为Unit 339及阳台实际朝向",
+        "无工资国际学生可接受的存款/担保材料",
+        "变量费用与8周credit入账月份"
       ],
       "fixedFees": [],
       "variableFees": [],
       "oneTimeFees": [],
-      "concession": "Unit 339人工确认8周免费；9月入住；tour后24小时申请另送2个月storage",
+      "concession": "Unit 339完整8周免费；24小时内申请另免$375 admin fee",
       "noise": {
         "level": "conditional",
-        "label": "噪音看朝向",
-        "summary": "Eastline靠Redmond Way与轻轨，外部交通声是主要变量；同片区住户认为关窗后可接受，但Central本楼一手评价仍少。",
-        "unitRisk": "339的窗户是否朝Redmond Way、轻轨或服务区尚未确认。",
-        "action": "优先内侧或背离Redmond Way/轨道的方向；要求物业提供窗景和开窗环境声。",
+        "label": "方向照片矛盾 · 噪音待核",
+        "summary": "物业称339约东北向、社区安静；附件却呈现明显内院视野。若照片确为339，内院向通常比Redmond Way/轻轨侧更稳，但目前不能据此下结论。",
+        "unitRisk": "文字写‘内院在背后’，照片却正对内院；实际是否朝道路、轻轨或内院仍需房号级确认。",
+        "action": "只需确认照片确为339、阳台朝内院还是朝东北道路侧；若可，请补一段开窗环境声。",
         "confidence": "medium",
         "sources": [
           {
@@ -67,6 +67,12 @@ window.PUBLIC_RENTAL_DATA = {
           "scope": "unit-floorplan",
           "label": "Unit 339 户型图",
           "src": "media/Eastline_339_Zillow_floorplan.jpg"
+        },
+        {
+          "type": "image",
+          "scope": "leasing-claimed-unit-view",
+          "label": "物业称为 Unit 339 的阳台视野",
+          "src": "media/Eastline_339_claimed_balcony_view_2026-08-30.png"
         }
       ],
       "links": [
@@ -422,13 +428,13 @@ window.PUBLIC_RENTAL_DATA = {
       "floor": "5楼",
       "direction": "待确认；优先高采光且避开I-405/医院设备面",
       "moveIn": "2026-09-17",
-      "lease": "12个月起手",
+      "lease": "12个月或14个月；官网两档当前base均为$2,174",
       "commute": "约29（2 Line，动态路线） 公共交通",
-      "normalBill": "$2,234",
+      "normalBill": "$2,401",
       "effectiveBill": "$2,310",
-      "effectiveNote": "约$2,310/月（2周优惠摊销，含官方估算电/气/水污$167）",
-      "valueScore": 78,
-      "readinessScore": 84,
+      "effectiveNote": "约$2,310–$2,316/月（12个月；2周优惠的计日口径不同，含官网平均水电燃气）",
+      "valueScore": 83,
+      "readinessScore": 85,
       "laundry": "✓ 户内洗烘 W/D",
       "airConditioning": "✓ 中央空调",
       "balcony": "× 无阳台",
@@ -437,9 +443,9 @@ window.PUBLIC_RENTAL_DATA = {
       "biggestCon": "真实有效价超过$2,300约$10/月",
       "watchOut": "512方向/噪音和实房媒体",
       "unresolved": [
-        "512方向/噪音",
-        "实房/房号媒体",
-        "I-20/资产材料的具体提交清单"
+        "I-20/存款材料的具体提交清单",
+        "512具体朝向与夜间噪音",
+        "512实房视频/窗景"
       ],
       "fixedFees": [
         "Package Lockers $15",
