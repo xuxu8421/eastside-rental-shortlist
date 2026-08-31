@@ -1,5 +1,5 @@
 window.PUBLIC_RENTAL_DATA = {
-  "updatedAt": "2026-08-30 11:25 Eastline实时库存与电梯复核（北京时间）",
+  "updatedAt": "2026-08-31 09:00 Gmail与两个Downtown实时复核（北京时间）",
   "summary": {
     "recommendation": "当前只比较 Bellevue Downtown 与 Redmond Downtown；先看主候选，再按需展开后置观察。",
     "note": "噪音按跨平台住户反馈和房号朝向分级；正常账单与优惠摊销价分开显示。所有房源均未锁定、未付款。"
@@ -28,8 +28,8 @@ window.PUBLIC_RENTAL_DATA = {
       "balcony": "✓ 阳台",
       "furnished": "无家具/待确认",
       "bestPro": "楼内有电梯且1BR库存充足；339的8周优惠已确认，有实际议价与替代空间",
-      "biggestCon": "只有339的8周已绑定；623无阳台且晚4天，301即使8周后也接近$2,500",
-      "watchOut": "先等339视频和国际学生审核回复；不满意再要求物业把301与623按同一口径报价",
+      "biggestCon": "物业没有回复视频与审核问题；24小时管理费减免是否仍有效也需重确认",
+      "watchOut": "等物业人工回复；若过一个完整工作日仍无回复，再发一次只问视频和审核的短催询",
       "unresolved": [
         "确认邮件照片是否确为Unit 339及阳台实际朝向",
         "无工资国际学生可接受的存款/担保材料",
