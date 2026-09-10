@@ -1,8 +1,8 @@
 window.PUBLIC_RENTAL_DATA = {
-  "updatedAt": "2026-08-31 09:00 Gmail与两个Downtown实时复核（北京时间）",
+  "updatedAt": "2026-09-10 18:00状态更新；以下房源数据仍为08-31历史版",
   "summary": {
     "recommendation": "当前只比较 Bellevue Downtown 与 Redmond Downtown；先看主候选，再按需展开后置观察。",
-    "note": "噪音按跨平台住户反馈和房号朝向分级；正常账单与优惠摊销价分开显示。所有房源均未锁定、未付款。"
+    "note": "本轮无新可行动物业回复。共享浏览器连接未恢复，库存价格和噪音未完成实时核验。本公开版下方房源数据仍为08-31历史版，不作为当前库存或选房顺位；Eastline 339已排除，Radiate 442不再是默认重点。申请与保留状态以物业书面确认为准。"
   },
   "candidates": [
     {
