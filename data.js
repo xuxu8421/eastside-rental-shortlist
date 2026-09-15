@@ -1,7 +1,7 @@
 window.PUBLIC_RENTAL_DATA = {
-  "updatedAt": "2026-09-14 11:03重点官网复核；下方候选仍为历史快照",
+  "updatedAt": "2026-09-15 09:06 Charles与收藏重点复核；其余候选仍为历史快照",
   "summary": {
-    "recommendation": "当前只比较 Bellevue Downtown 与 Redmond Downtown；先看主候选，再按需展开后置观察。",
+    "recommendation": "仅比较两个Downtown。09-15 Charles A6公开610/706固定月价2914/2934不变，8周优惠仅指定房号；Zillow Eastline社区起价2337不代表707报价。其余库存、审核及噪音未全量刷新，以下历史候选不作当前可租或批准保证。",
     "note": "09-14官网：Main Street Flats347固定总月费2051起，12个月base2044，日期报价范围至2408，仍因通勤/阳台后置；Eastline707仍2378现房；Talisman162仍13个月2265.95。Luke2.6户型2301尚未确认具体单位及租期，Blackbird未完成实时核验。09-13已核Radiate301/437起价2195/2299、Elements N0901未列出。均非最终全包，优惠/审核/噪音待核。以下候选正文为历史快照，未全量同步，不作当前库存或排名。 远端正文仍为08-31历史版，339已排除，442不是默认重点。"
   },
   "candidates": [
